@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Venker\\Celsior Training\\day4\\College_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067FCCB5-0BF3-4F64-A2F7-B8443472F8F6}|College\\College.csproj|c:\\venker\\celsior training\\day4\\college_solution\\college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067FCCB5-0BF3-4F64-A2F7-B8443472F8F6}|College\\College.csproj|solutionrelative:college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venker\\Celsior Training\\day4\\College_solution\\College\\Program.cs",
+              "RelativeDocumentMoniker": "College\\Program.cs",
+              "ToolTip": "C:\\Venker\\Celsior Training\\day4\\College_solution\\College\\Program.cs",
+              "RelativeToolTip": "College\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:29:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

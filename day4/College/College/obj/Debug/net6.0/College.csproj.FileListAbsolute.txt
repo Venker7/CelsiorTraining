@@ -1,0 +1,14 @@
+C:\Venker\Celsior Training\day4\College\College\bin\Debug\net6.0\College.exe
+C:\Venker\Celsior Training\day4\College\College\bin\Debug\net6.0\College.deps.json
+C:\Venker\Celsior Training\day4\College\College\bin\Debug\net6.0\College.runtimeconfig.json
+C:\Venker\Celsior Training\day4\College\College\bin\Debug\net6.0\College.dll
+C:\Venker\Celsior Training\day4\College\College\bin\Debug\net6.0\College.pdb
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.AssemblyInfoInputs.cache
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.AssemblyInfo.cs
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.csproj.CoreCompileInputs.cache
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.dll
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\refint\College.dll
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.pdb
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\College.genruntimeconfig.cache
+C:\Venker\Celsior Training\day4\College\College\obj\Debug\net6.0\ref\College.dll
